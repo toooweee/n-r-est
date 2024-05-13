@@ -1,4 +1,4 @@
-<<<<<<< n-{r}-est >>>>>>
+<<<<<<<<<<< 👀 n-{r}-est ~~👀~~ >>>>>>>>>>>
 - 👋 Hi, I’m @toooweee
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,7 +6,10 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-=======
+
+ ==================================
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
